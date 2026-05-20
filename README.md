@@ -18,6 +18,7 @@ I enjoy building interdisciplinary systems that combine electronics, physiology,
 
 <p>
   <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="23"/>-->
   <img src="https://img.shields.io/badge/MATLAB-1E1E2E?style=for-the-badge&logo=mathworks&logoColor=orange"/>
   <!-- <img src="https://img.shields.io/badge/C++-1E1E2E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/> -->
   <img src="https://img.shields.io/badge/PyTorch-1E1E2E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
