@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Labhesh Sonawane 👋</h1>
+<h1>Hi there, I'm Labhesh Sonawane </h1>
 
 Biomedical Engineering graduate student at <b>IIT Madras</b> working at the intersection of <b>biomechanics, biomedical signal processing, embedded systems, and AI for healthcare.</b>
 
